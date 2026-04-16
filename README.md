@@ -7,6 +7,7 @@
 ### Featured Projects
 
 #### 📫 Construction of High-Frequency Volume-Price Factors in Quantitative Trading:
+#### https://github.com/5tap/Construction-of-High-Frequency-Volume-Price-Factors-in-Quantitative-Trading.git
 #### Based on the minute-level high-frequency data of CSI 500 and SSE 300 stock index futures (460,000+ rows), the price-volume rolling correlation factor was constructed using the DPIN (Dynamic Informed Trading Probability) framework. After parameter tuning, the Sharpe ratio of the excellent parameters reached 0.75. 
 
 
