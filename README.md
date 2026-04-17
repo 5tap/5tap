@@ -17,6 +17,7 @@
 
 
 #### 📫 Multitask Machine Learning for News Classification and Sentiment Analysis: 
+#### https://github.com/5tap/Multitask-Machine-Learning-for-News-Classification-and-Sentiment-Analysis.git
 #### Constructing a multitask learning framework based on DistilBERT, integrating Dropout and residual connections, optimizing hyperparameters through grid search and early stopping, to achieve joint modeling of six classifications of news categories and sentiments.
 
 
