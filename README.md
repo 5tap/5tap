@@ -12,6 +12,7 @@
 
 
 #### 📫 L'Oréal Customer Consumption Value Forecast:
+#### https://github.com/5tap/L-Or-al-Customer-Consumption-Value-Forecast.git
 #### Two-stage model (Random Forest + Lasso), ROC AUC 0.95. Data-driven design of precise marketing strategies.
 
 
