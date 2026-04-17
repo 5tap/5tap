@@ -8,7 +8,7 @@
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, R, Stata, SQL  
+**Programming:** Python, R, Stata 
 **Data Processing:** Pandas, NumPy, Excel  
 **Machine Learning:** Scikit-learn, PyTorch, Transformers, TensorFlow  
 **Quantitative Finance:** Factor Mining, Backtesting, Portfolio Optimization
